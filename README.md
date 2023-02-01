@@ -38,4 +38,5 @@
   <a href="https://twitter.com/ShuvajitGhosh1"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"></a>
 </div>
 
-<!-- ![Snake animation](https://github.com/shuvajit-geek/shuvajit-geek/blob/output/gihub-contribution-grid-snake.svg) -->
+
+![snake gif](https://github.com/shuvajit-geek/shuvajit-geek/blob/output/github-contribution-grid-snake.gif)
