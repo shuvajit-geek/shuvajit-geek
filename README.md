@@ -38,8 +38,4 @@
   <a href="https://twitter.com/ShuvajitGhosh1"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"></a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
+![snake gif](https://github.com/shuvajit-geek/shuvajit-geek/blob/output/github-contribution-grid-snake.gif)
