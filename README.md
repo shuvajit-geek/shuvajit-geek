@@ -6,7 +6,7 @@
 
 ##
 
-<div style="display: inline_block; margin-top: 10px;">
+<div style="display: inline_block; margin-top: 20px;">
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" />
   &nbsp
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" />
@@ -31,11 +31,11 @@
   &nbsp
   <a href="https://www.linkedin.com/in/shuvajit-ghosh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
   &nbsp
-  <a href="#"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"></a>
+  <a href="https://www.hackerrank.com/shuvajit_offici1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"></a>
   &nbsp
   <a href="#"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"></a>
   &nbsp
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"></a>
+  <a href="https://twitter.com/ShuvajitGhosh1"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"></a>
 </div>
 
 <!-- ![Snake animation](https://github.com/shuvajit-geek/shuvajit-geek/blob/output/gihub-contribution-grid-snake.svg) -->
