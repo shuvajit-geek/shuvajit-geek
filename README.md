@@ -1,6 +1,6 @@
 ## Hey there, I'm Shuvajit 👋...
 <div>
-  <img align="left" height="180em" width="47%" src="https://github-readme-stats.vercel.app/PAT_1/api/?username=shuvajit-geek&show_icons=true&theme=radical" />
+  <img align="left" height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/?username=shuvajit-geek&show_icons=true&theme=radical" />
   <img align="left" height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvajit-geek&layout=compact&theme=radical" />
 </div>
 
