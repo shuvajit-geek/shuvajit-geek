@@ -27,7 +27,7 @@
 ##
 
 <div>
-  <a href="mailto:shuvajit.official123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
+  <a href="mailto:shuvajit.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
   &nbsp
   <a href="https://www.linkedin.com/in/shuvajit-ghosh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
   &nbsp
